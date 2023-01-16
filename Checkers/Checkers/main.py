@@ -2,6 +2,7 @@ import board as bd
 import Dumb_Bot as db
 
 #I CHANGED THIS COMMENT
+
 if __name__ == '__main__':
     board = bd.Board()
     bot = db.DumbBot()
@@ -17,6 +18,8 @@ if __name__ == '__main__':
 
         board.move_piece()
 
+
+#Hello this is me
 
 
 
