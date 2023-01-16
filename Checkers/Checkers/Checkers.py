@@ -3,10 +3,12 @@ import Dumb_Bot as db
 
 #change commen5regbfek
 
+
 if __name__ == '__main__':
     board = bd.Board()
     bot = db.DumbBot()
     print('Checker Wars')
+    print ("hello")
 
     playing = True
 
